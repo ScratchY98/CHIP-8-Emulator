@@ -32,7 +32,7 @@ gcc main.c -o main -lmingw32 -lSDL2main -lSDL2
 ## Usage
 
 1. Put a CHIP-8 ROM (a `.ch8` file) in the same folder as the executable.
-2. Run `./chip8`.
+2. Run `./main`.
 3. At the `GAME NAME:` prompt, type the ROM name without the `.ch8` extension
    (for `pong.ch8`, type `pong`).
 
